@@ -1,13 +1,10 @@
-<!DOCTYPE html>
+
 <html lang="en">
   <head>
     <meta charset="utf-8">
 <title>
-  
-  iOS开源项目 &middot; MobDevGroup
-  
+  iOS开源项目  MobDevGroup
 </title>
-
   </head>
   <body>
     <div class="bs-header" id="content">
@@ -16,9 +13,7 @@
         <p>整理官方Demo应用、第三方团体项目以及个人开发者项目，阅读别人的源码也是自我提升的一种方式</p>
       </div>
     </div>
-
     <div class="container bs-docs-container">
-
       <div class="row">
         <div class="col-md-9" role="main">
           <h3 id="section">开源项目</h3>
