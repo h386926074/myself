@@ -42,10 +42,3 @@ int main(int argc, const char * argv[]) {
     return 0;
 }
 
-
-2016-03-14 15:25:44.207 KKBOX[5786:187150] Hello, World!
-2016-03-14 15:25:44.208 KKBOX[5786:187150] test
-2016-03-14 15:25:44.208 KKBOX[5786:187150] 4
-2016-03-14 15:25:44.208 KKBOX[5786:187150] testtest
-2016-03-14 15:25:44.209 KKBOX[5786:187150] runtime hello
-Program ended with exit code: 0
